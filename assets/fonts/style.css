@@ -1,0 +1,20 @@
+@font-face {
+   font-family: 'PlayfairDisplay-BlackItalic';
+   src: url('PlayfairDisplay-BlackItalic/font.ttf');
+}
+@font-face {
+   font-family: 'BarlowCondensed-Light';
+   src: url('BarlowCondensed-Light/font.ttf');
+}
+@font-face {
+   font-family: 'Basic-Regular';
+   src: url('Basic-Regular/font.ttf');
+}
+@font-face {
+   font-family: 'OpenSans-Light';
+   src: url('OpenSans-Light/font.ttf');
+}
+@font-face {
+   font-family: 'BarlowCondensed-ExtraLight';
+   src: url('BarlowCondensed-ExtraLight/font.ttf');
+}
